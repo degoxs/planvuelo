@@ -1,0 +1,25 @@
+/home/issac/workspace/RutaDrone/bin/classes.dex : \
+/home/issac/workspace/RutaDrone/bin/classes/com/ubicom/ruta/R$drawable.class \
+/home/issac/workspace/RutaDrone/bin/classes/com/ubicom/ruta/R$style.class \
+/home/issac/workspace/RutaDrone/bin/classes/com/ubicom/ruta/R$color.class \
+/home/issac/workspace/RutaDrone/bin/classes/com/ubicom/ruta/BuildConfig.class \
+/home/issac/workspace/RutaDrone/bin/classes/com/ubicom/ruta/R$string.class \
+/home/issac/workspace/RutaDrone/bin/classes/com/ubicom/ruta/R$layout.class \
+/home/issac/workspace/RutaDrone/bin/classes/com/ubicom/ruta/MainActivity.class \
+/home/issac/workspace/RutaDrone/bin/classes/com/ubicom/ruta/MainActivity$1.class \
+/home/issac/workspace/RutaDrone/bin/classes/com/ubicom/ruta/R.class \
+/home/issac/workspace/RutaDrone/bin/classes/com/ubicom/ruta/R$id.class \
+/home/issac/workspace/RutaDrone/bin/classes/com/ubicom/ruta/R$attr.class \
+/home/issac/workspace/RutaDrone/bin/classes/com/ubicom/ruta/R$integer.class \
+/home/issac/workspace/RutaDrone/bin/classes/com/ubicom/ruta/R$styleable.class \
+/home/issac/workspace/RutaDrone/bin/classes/com/google/android/gms/R$drawable.class \
+/home/issac/workspace/RutaDrone/bin/classes/com/google/android/gms/R$style.class \
+/home/issac/workspace/RutaDrone/bin/classes/com/google/android/gms/R$color.class \
+/home/issac/workspace/RutaDrone/bin/classes/com/google/android/gms/R$string.class \
+/home/issac/workspace/RutaDrone/bin/classes/com/google/android/gms/R.class \
+/home/issac/workspace/RutaDrone/bin/classes/com/google/android/gms/R$id.class \
+/home/issac/workspace/RutaDrone/bin/classes/com/google/android/gms/R$attr.class \
+/home/issac/workspace/RutaDrone/bin/classes/com/google/android/gms/R$integer.class \
+/home/issac/workspace/RutaDrone/bin/classes/com/google/android/gms/R$styleable.class \
+/home/issac/workspace/RutaDrone/bin/dexedLibs/classes-535d212f9b067707872fedeadb36749b.jar \
+/home/issac/workspace/RutaDrone/bin/dexedLibs/google-play-services-8facb951a7c235e8f71482f7c3e4b4d5.jar \
